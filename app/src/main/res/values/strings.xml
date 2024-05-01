@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notefy</string>
+    <string name="edit_note_header">Edit Note : </string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_new_note_header">New Note :</string>
+</resources>

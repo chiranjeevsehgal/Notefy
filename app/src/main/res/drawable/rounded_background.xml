@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/white" />
+    <corners android:radius="18dp" /> <!-- Adjust the radius as per your preference -->
+</shape>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<shape xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--    <gradient-->
+    <!--        android:startColor="#D8BDDD"-->
+    <!--        android:centerColor="#B4F0F7"-->
+    <!--        android:endColor="#DFD0DF"-->
+    <!--        android:angle="45"-->
+    <!--        android:type="linear" /> &lt;!&ndash; Background color &ndash;&gt;-->
+    <!--    <corners android:radius="16dp"/> &lt;!&ndash; Adjust radius here &ndash;&gt;-->
+    <!--</shape>-->
